@@ -1,0 +1,56 @@
+[
+{
+  "id": 1,
+  "date": "2023-07-16",
+  "cost": "12.50",
+  "products": [{
+    "id": 1,
+    "name": "potate",
+    "cost": 12.50
+    },
+    {
+    "id": 2,
+    "name": "cherry",
+    "cost": 40.50
+    }]
+},
+{
+  "id": 2,
+  "date": "2023-07-17",
+  "cost": "0",
+  "products": [{
+    "id": 1,
+    "name": "tomato",
+    "cost": 50
+    },
+    {
+    "id": 2,
+    "name": "lime",
+    "cost": 40.0
+    },
+    {
+    "id": 3,
+    "name": "kiwi",
+    "cost": 100.0
+    }]
+},
+{
+  "id": 3,
+  "date": "2023-07-22",
+  "cost": "0",
+  "products": [{
+    "id": 1,
+    "name": "book",
+    "cost": 4.5
+    },
+    {
+    "id": 2,
+    "name": "magazine",
+    "cost": 10.0
+    },
+    {
+    "id": 3,
+    "name": "newspaper",
+    "cost": 1.5
+    }]
+}]
