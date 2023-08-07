@@ -1,0 +1,48 @@
+{
+    "71bea001-2de4-451f-95d5-8b31301de707": {
+        "uid": "71bea001-2de4-451f-95d5-8b31301de707",
+        "createOrder": "Aug 3, 2023, 5:01:59 PM",
+        "updateOrder": "Aug 4, 2023, 10:39:42 AM",
+        "cost": 195.3,
+        "products": [
+            {
+                "uid": "559f8dd2-8cec-4f20-a651-4b37293056bf",
+                "name": "tomate",
+                "cost": 125.0
+            },
+            {
+                "uid": "6b8bab54-2b33-4c86-bd6a-b0c4d7122104",
+                "name": "Milk",
+                "cost": 25.0
+            },
+            {
+                "uid": "d3311fd6-6ce7-4371-a05b-ff8553205360",
+                "name": "Butter",
+                "cost": 45.3
+            }
+        ]
+    },
+    "0d403a75-78ab-4caf-8af3-f4887aa81c39": {
+        "uid": "0d403a75-78ab-4caf-8af3-f4887aa81c39",
+        "createOrder": "Aug 3, 2023, 5:01:35 PM",
+        "updateOrder": "Aug 4, 2023, 10:42:46 AM",
+        "cost": 87.5,
+        "products": [
+            {
+                "uid": "6dac1250-63a5-4e0f-9ef4-5172d61deeab",
+                "name": "potate",
+                "cost": 12.5
+            },
+            {
+                "uid": "22f5dc07-4d49-4e17-9ebc-b8a6c66bdc36",
+                "name": "Americano",
+                "cost": 30.0
+            },
+            {
+                "uid": "40e84749-d58e-497c-a0ec-80cdea814d87",
+                "name": "Latte",
+                "cost": 45.0
+            }
+        ]
+    }
+}
